@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=13-Tommy&icon=0&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Hello! I'm Tomasz Lis, a Krakow-based Front-end Developer. My world revolves around code and continuous learning. Currently, I'm on a journey to become a Full Stack Developer, driven by my passion for pushing boundaries. Coding isn't just my job; it's a daily source of inspiration for me, fuelling my growth.
 
@@ -15,6 +16,4 @@ Hello! I'm Tomasz Lis, a Krakow-based Front-end Developer. My world revolves aro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=13-Tommy&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
